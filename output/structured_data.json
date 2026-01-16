@@ -1,0 +1,12 @@
+{
+  "medications": [
+    {
+      "drug_name": "metformin",
+      "strength": "500mg",
+      "form": "Tablet",
+      "instructions": "Take twice daily.",
+      "quantity": "Not Found",
+      "duration": "Not Found"
+    }
+  ]
+}
